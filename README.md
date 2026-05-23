@@ -1,24 +1,31 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=INITIALIZING+LAKSHMI+MB+RESEARCH+CORE...;ARCHITECTING+HYBRID+QUANTUM-CLASSICAL+AI;DEPLOYING+SCALABLE+MLOPS+PIPELINES;REAL-TIME+INTELLIGENCE+SYSTEM+ONLINE;BEYOND+2026...&font=Fira+Code&size=26&center=true&width=800&height=60&color=00FF9D&duration=3000&pause=1000" alt="Terminal Loading" />
+</p>
+
+---
+
+### 📡 CENTRAL INTELLIGENCE COMMAND
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+|+MLOps+Researcher;Architecting+Hybrid+Quantum+Systems;Building+the+Future+of+2026;System+Architecture+&+Optimization&font=Fira%20Code&size=22&center=true&width=800&height=50&color=00ff00" />
+  <img src="https://img.shields.io/badge/RESEARCH-ACTIVE-00FF9D?style=flat&logo=target" />
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE-SCALABLE-00FF9D?style=flat&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/QUANTUM_STATE-COHERENT-00FF9D?style=flat&logo=qiskit" />
 </div>
 
----
-
-### 📡 REAL-TIME RESEARCH DASHBOARD
-| **Infrastructure** | **Quantum Intelligence** | **Operations** |
+### 🔍 RESEARCH DOMAIN VECTORS
+| VECTOR | STATUS | FOCUS |
 | :--- | :--- | :--- |
-| **Python** 🐍 | **Qiskit** ⚛️ | **Docker** 🐳 |
-| **PyTorch** 🔥 | **PennyLane** 🌌 | **Kubernetes** ☸️ |
-| **FastAPI** 🚀 | **VQC Models** 🧠 | **CI/CD** ⚙️ |
+| **Hybrid VQC** | 🟢 LIVE | High-dim feature extraction |
+| **Production MLOps** | 🟡 INTEGRATING | CI/CD for LLM inference |
+| **Affective Computing** | 🔵 RESEARCHING | Panic prediction systems |
 
 ---
 
-### 📰 LIVE TECHNOLOGY INTELLIGENCE
-*Streaming real-time insights from global research labs.*
+### 📰 GLOBAL AI & QUANTUM INTELLIGENCE FEED
+*Live intelligence streams injected via GitHub Actions.*
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/card?theme=tokyonight&line1=AI,MLOps,Quantum" alt="Tech" />
-</p>
+<div align="center">
+  <a href="mailto:lakshmi@mblakshmi.tech"><img src="https://img.shields.io/badge/SECURE_LINK-LAKSHMI@MBLAKSHMI.TECH-00FF9D?style=for-the-badge&logo=protonmail" /></a>
+  <a href="https://mblakshmi.tech"><img src="https://img.shields.io/badge/DOMAIN-MBLAKSHMI.TECH-00FF9D?style=for-the-badge&logo=internetexplorer" /></a>
+</div>
